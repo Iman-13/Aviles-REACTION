@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaEnvelope, FaPhone, FaFacebook, FaGithub } from 'react-icons/fa';
 
 function Home() {
   return (

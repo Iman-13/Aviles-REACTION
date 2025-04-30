@@ -1,6 +1,3 @@
-
-import { FaEnvelope, FaPhone, FaFacebook, FaGithub } from 'react-icons/fa';
-
 function Contact() {
   return (
     <section id="contact">
